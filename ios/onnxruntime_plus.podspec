@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'onnxruntime_plus'
-  s.version          = '1.4.2'
+  s.version          = '1.4.3'
   s.summary          = 'Flutter FFI plugin for ONNX Runtime with iOS Swift Package Manager support.'
   s.description      = <<-DESC
 Flutter FFI plugin for ONNX Runtime with iOS Swift Package Manager support.

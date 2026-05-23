@@ -1,3 +1,8 @@
+## 1.4.3
+
+* Fix doc comments in `list_shape_extension.dart` so pub.dev static analysis no longer treats generic type names as HTML.
+* Point the macOS Swift Package Manager artifact URL at the release-matching tag.
+
 ## 1.4.2
 
 * Rename the package to `onnxruntime_plus`.
